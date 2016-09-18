@@ -1,23 +1,23 @@
 # Site settings
-title: "Su Yan's Blog"
-email: suyan0830@gmail.com
+title: "N1ce's Blog"
+email: edgar.cui@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  "Su Yan's Tech Blog"
+  "N1ce's Blog"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yansu.org" # the base hostname & protocol for your site
+url: "http://ccjee.com" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: n1ce
 twitter:
-  username: masonsuyan
+  username: edgar4044
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
 filter: 'category'
 
 # Social account
-twitter: masonsuyan
+twitter: edgar4044
 # weibo:    ID
-github: suyan
+github: n1ce4044
 # codepen:  username
 # dribbble: username
 
@@ -27,12 +27,12 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
 disqus:
-  shortname: suyan-en
+  shortname: n1ce
 
 # google analytics config
 ga:
   id: UA-54767140-2
-  url: yansu.org
+  url: ccjee.com
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
